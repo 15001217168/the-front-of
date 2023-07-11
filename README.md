@@ -47,5 +47,7 @@
 ## 工具
 - [webpack](https://webpack.docschina.org/)
 - [rollupjs](https://www.rollupjs.com/)
+- [Webpack 核心原理](https://zhuanlan.zhihu.com/p/363928061)
+  
 ## 面试
 - [别人整理系列](https://github.com/15001217168/note)
