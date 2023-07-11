@@ -8,6 +8,9 @@
 ## 进阶
 - [木易杨前端进阶](https://www.muyiy.cn/)
 
+## 微信
+- [微信小程序开发资源](https://github.com/justjavac/awesome-wechat-weapp)
+
 ## 源码分析系列
 
 ### Vue
